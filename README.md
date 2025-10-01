@@ -23,12 +23,15 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-'''<html>
-    <head>
-        <title>My city</title>
-    </head>
-    <body>
-        <h1 align ="centre">
+'''
+map.html
+
+<html>
+<head>
+<title>My city</title>
+</head>
+<body>
+<h1 align ="centre">
             <front colour="red"><b>Tiruvannamalai</b></front>
         </h1>
         <h3 align="centre">
@@ -141,6 +144,7 @@ tiruvannamalai5.html
         </p>
     </body>
 </html>
+
 '''
 
 # OUTPUT
