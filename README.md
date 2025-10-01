@@ -23,7 +23,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-'''<html>
+
+<html>
     <head>
         <title>My city</title>
     </head>
@@ -140,7 +141,7 @@ tiruvannamalai5.html
             </font>
         </p>
     </body>
-</html>'''
+</html>
 
 # OUTPUT
 
