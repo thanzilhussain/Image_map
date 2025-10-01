@@ -23,6 +23,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
+'''
+map.html
 
 <html>
     <head>
@@ -142,7 +144,7 @@ tiruvannamalai5.html
         </p>
     </body>
 </html>
-
+'''
 # OUTPUT
 
 ![alt text](1.jpg)
