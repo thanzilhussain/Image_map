@@ -140,8 +140,7 @@ tiruvannamalai5.html
             </font>
         </p>
     </body>
-</html>
-'''
+</html>'''
 
 # OUTPUT
 
